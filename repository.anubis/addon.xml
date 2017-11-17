@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.anubis" name="Anubis Repo" version="1.0" provider-name="FFY00">
+    <extension point="xbmc.addon.repository" name="Anubis Repo">
+    <dir>
+        <info compressed="false">https://github.com/FFY00/repository.anubis/raw/master/addons.xml</info>
+        <checksum>https://github.com/FFY00/repository.anubis/raw/master/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/host505/host505-repo/master/</datadir>
+    </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Misc Kodi Repository</summary>
+        <description>Anubis Repo</description>
+        <platform>all</platform>
+    </extension>
+</addon>
