@@ -1,10 +1,6 @@
 # Ignore all directories, and all sub-directories, and it's contents:
 */*
 
-#Only Include these specific directories and subdirectories:
-!zips/
-!zips/*/
-
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
