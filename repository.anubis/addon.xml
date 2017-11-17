@@ -2,8 +2,8 @@
 <addon id="repository.anubis" name="Anubis Repo" version="1.0" provider-name="FFY00">
     <extension point="xbmc.addon.repository" name="Anubis Repo">
     <dir>
-        <info compressed="false">https://github.com/FFY00/repository.anubis/raw/master/addons.xml</info>
-        <checksum>https://github.com/FFY00/repository.anubis/raw/master/addons.xml.md5</checksum>
+        <info compressed="false">https://ffy00.github.io/repository.anubis/addons.xml</info>
+        <checksum>https://ffy00.github.io/repository.anubis/addons.xml.md5</checksum>
         <datadir zip="true">https://ffy00.github.io/repository.anubis/</datadir>
     </dir>
     </extension>
