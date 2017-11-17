@@ -4,7 +4,7 @@
     <dir>
         <info compressed="false">https://github.com/FFY00/repository.anubis/raw/master/addons.xml</info>
         <checksum>https://github.com/FFY00/repository.anubis/raw/master/addons.xml.md5</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/host505/host505-repo/master/</datadir>
+        <datadir zip="true">https://ffy00.github.io/repository.anubis/</datadir>
     </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
